@@ -37,7 +37,7 @@
 ## About The Project
 
 <div style="margin-left: 20%">
-    <img alt='screenshot' src='./Burger builder/src/assets/img/burger.png' height='200' width='300'/>
+    <img alt='screenshot' src='./src/assets/img/burger.png' height='200' width='300'/>
 </div>
 
 
