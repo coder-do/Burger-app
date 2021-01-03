@@ -1,0 +1,39 @@
+.Input  
+    width: 100% 
+    box-sizing: border-box 
+ 
+.Label  
+    font-weight: bold 
+    display: block 
+ 
+.InputElement  
+    outline: none 
+    border: 1px solid #ccc 
+    background-color: white 
+    font: inherit 
+    padding: 6px 10px 
+    display: block 
+    width: 100% 
+    box-sizing: border-box 
+    &:focus  
+        outline: none 
+        background-color: #ccc 
+.Invalid
+    border: 1px solid red;
+    background-color: #fda49a
+
+@media (min-width: 600px) 
+    .Input
+        padding: 5px
+
+@media (max-width: 390px) 
+    .InputElement  
+        width: 90%
+    .Input
+        margin: 0px 17px
+
+@media (max-width: 500px) 
+    .InputElement  
+        width: 90%
+    .Input
+        margin: 0px 17px
