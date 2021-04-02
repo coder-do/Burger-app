@@ -78,7 +78,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contact
 
-LinkedIn - [Meruzhan Kiloyan](https://linkedin.com/in/meruzhan-kiloyan-05327917b)
+LinkedIn - [Meruzhan Kiloyan](https://www.linkedin.com/in/meruzh-kiloyan-05327917b/)
 
 Project Link on the Firebase hosting: [https://burger-builder-9d1db.firebaseapp.com/](https://burger-builder-9d1db.firebaseapp.com/)
 
